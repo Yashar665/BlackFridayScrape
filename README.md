@@ -1,0 +1,1 @@
+I run the script it sometimes reaises an exception, but runs sometimes just okay. I can't find the reason, please help.

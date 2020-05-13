@@ -1,3 +1,5 @@
+import os
+os.chdir('C:/Users/Yashar/Desktop/BlackFridayScrape')
 import requests 
 import json
 from bs4 import BeautifulSoup

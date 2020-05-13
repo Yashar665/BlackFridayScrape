@@ -1,0 +1,2 @@
+cd C:\Users\Yashar\Desktop\BlackFridayScrape
+python price_scraper.py
