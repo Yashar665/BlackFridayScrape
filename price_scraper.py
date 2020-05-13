@@ -1,3 +1,6 @@
+# the script raises an error sometimes
+
+
 import os
 os.chdir('C:/Users/Yashar/Desktop/BlackFridayScrape')
 import requests 
